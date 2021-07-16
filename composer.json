@@ -1,0 +1,12 @@
+{
+
+	"autoload":{
+		"psr-4": {
+			"App\\": "app/"
+		}
+	},
+	"require": {
+		"verot/class.upload.php": "^2.1",
+		"phpmailer/phpmailer": "^6.4"
+	}
+}

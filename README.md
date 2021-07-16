@@ -1,4 +1,4 @@
-# simple-php-mvc-framework
+# PHP-MVC-Framework build from scratch
 simple mvc framework for php to get start the project right now
 
 TO GET STARTED- 
